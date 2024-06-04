@@ -1,0 +1,61 @@
+.departments-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.departments-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.department-card {
+  width: calc(33.33% - 20px);
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.department-card h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.department-card p {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.doctors-list {
+  margin-top: 20px;
+}
+
+.doctors-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.doctors-list li {
+  cursor: pointer;
+}
+
+.doctors-list li:hover {
+  background-color: #f0f0f0;
+}
+
+.doctor-details {
+  margin-top: 20px;
+}
+
+.doctor-details h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.doctor-details p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}

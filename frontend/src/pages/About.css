@@ -1,0 +1,55 @@
+.about {
+    padding: 40px 0;
+  }
+  
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .about h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .about section {
+    display: flex;
+    margin-bottom: 40px;
+  }
+  
+  .about-image {
+    width: 300px; /* Adjust image width as needed */
+    height: auto;
+    margin-right: 20px;
+    border-radius: 5px;
+  }
+  
+  .about section div {
+    flex: 1;
+  }
+  
+  .about section h2 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .about section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .about section ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .about section ul li strong {
+    font-weight: bold;
+  }
+  

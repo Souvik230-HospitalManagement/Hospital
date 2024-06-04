@@ -1,0 +1,245 @@
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Dr. Arjun Gupta",
+        "specialty": "Cardiology",
+        "qualifications": "MD, Cardiology",
+        "experience": "15+ years",
+        "image": "dr_arjun_gupta.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Priya Sharma",
+        "specialty": "Neurology",
+        "qualifications": "MD, Neurology",
+        "experience": "12+ years",
+        "image": "dr_priya_sharma.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Manoj Patel",
+        "specialty": "Pediatrics",
+        "qualifications": "MD, Pediatrics",
+        "experience": "18+ years",
+        "image": "dr_manoj_patel.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dr. Deepika Reddy",
+        "specialty": "Dermatology",
+        "qualifications": "MD, Dermatology",
+        "experience": "10+ years",
+        "image": "dr_deepika_reddy.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Anil Kumar",
+        "specialty": "Orthopedics",
+        "qualifications": "MS, Orthopedics",
+        "experience": "20+ years",
+        "image": "dr_anil_kumar.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Dr. Nisha Singh",
+        "specialty": "Oncology",
+        "qualifications": "MD, Oncology",
+        "experience": "14+ years",
+        "image": "dr_nisha_singh.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Dr. Arvind Joshi",
+        "specialty": "ENT (Ear, Nose, Throat)",
+        "qualifications": "MS, ENT",
+        "experience": "16+ years",
+        "image": "dr_arvind_joshi.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Dr. Pooja Desai",
+        "specialty": "Gynecology",
+        "qualifications": "MD, Gynecology",
+        "experience": "13+ years",
+        "image": "dr_pooja_desai.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Dr. Sanjay Shah",
+        "specialty": "Urology",
+        "qualifications": "MS, Urology",
+        "experience": "17+ years",
+        "image": "dr_sanjay_shah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Dr. Aarti Gupta",
+        "specialty": "Psychiatry",
+        "qualifications": "MD, Psychiatry",
+        "experience": "11+ years",
+        "image": "dr_aarti_gupta.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Dr. Rohit Kumar",
+        "specialty": "Endocrinology",
+        "qualifications": "MD, Endocrinology",
+        "experience": "16+ years",
+        "image": "dr_rohit_kumar.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Dr. Shalini Verma",
+        "specialty": "Pulmonology",
+        "qualifications": "MD, Pulmonology",
+        "experience": "14+ years",
+        "image": "dr_shalini_verma.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Dr. Rahul Singh",
+        "specialty": "Rheumatology",
+        "qualifications": "MD, Rheumatology",
+        "experience": "12+ years",
+        "image": "dr_rahul_singh.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Dr. Kavita Sharma",
+        "specialty": "Ophthalmology",
+        "qualifications": "MS, Ophthalmology",
+        "experience": "19+ years",
+        "image": "dr_kavita_sharma.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Dr. Rajesh Reddy",
+        "specialty": "Gastroenterology",
+        "qualifications": "MD, Gastroenterology",
+        "experience": "18+ years",
+        "image": "dr_rajesh_reddy.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Dr. Meenakshi Gupta",
+        "specialty": "Hematology",
+        "qualifications": "MD, Hematology",
+        "experience": "13+ years",
+        "image": "dr_meenakshi_gupta.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Dr. Vikram Singh",
+        "specialty": "Nephrology",
+        "qualifications": "MD, Nephrology",
+        "experience": "15+ years",
+        "image": "dr_vikram_singh.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Dr. Sneha Patel",
+        "specialty": "Allergy and Immunology",
+        "qualifications": "MD, Allergy and Immunology",
+        "experience": "11+ years",
+        "image": "dr_sneha_patel.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Dr. Amit Sharma",
+        "specialty": "Geriatrics",
+        "qualifications": "MD, Geriatrics",
+        "experience": "14+ years",
+        "image": "dr_amit_sharma.jpg"
+      },
+      {
+        "id": 20,
+        "name": "Dr. Renuka Singh",
+        "specialty": "Neurosurgery",
+        "qualifications": "MCh, Neurosurgery",
+        "experience": "21+ years",
+        "image": "dr_renuka_singh.jpg"
+      },
+      {
+        "id": 21,
+        "name": "Dr. Suresh Reddy",
+        "specialty": "Dentistry",
+        "qualifications": "MDS, Dentistry",
+        "experience": "16+ years",
+        "image": "dr_suresh_reddy.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Dr. Priyanka Shah",
+        "specialty": "Podiatry",
+        "qualifications": "DPM, Podiatry",
+        "experience": "10+ years",
+        "image": "dr_priyanka_shah.jpg"
+      },
+      {
+        "id": 23,
+        "name": "Dr. Vivek Yadav",
+        "specialty":"Ophthalmology",
+        "qualifications": "MS, Ophthalmology",
+        "experience": "19+ years",
+        "image": "dr_kavita_sharma.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Dr. Anjali Sharma",
+        "specialty": "Plastic Surgery",
+        "qualifications": "MCh, Plastic Surgery",
+        "experience": "17+ years",
+        "image": "dr_anjali_sharma.jpg"
+      },
+      {
+        "id": 25,
+        "name": "Dr. Ajay Kumar",
+        "specialty": "Sports Medicine",
+        "qualifications": "MD, Sports Medicine",
+        "experience": "15+ years",
+        "image": "dr_ajay_kumar.jpg"
+      },
+      {
+        "id": 26,
+        "name": "Dr. Neha Gupta",
+        "specialty": "Cardiothoracic Surgery",
+        "qualifications": "MCh, Cardiothoracic Surgery",
+        "experience": "20+ years",
+        "image": "dr_neha_gupta.jpg"
+      },
+      {
+        "id": 27,
+        "name": "Dr. Rohan Patel",
+        "specialty": "Oncosurgery",
+        "qualifications": "MCh, Oncosurgery",
+        "experience": "18+ years",
+        "image": "dr_rohan_patel.jpg"
+      },
+      {
+        "id": 28,
+        "name": "Dr. Priya Verma",
+        "specialty": "Trauma Surgery",
+        "qualifications": "MS, Trauma Surgery",
+        "experience": "16+ years",
+        "image": "dr_priya_verma.jpg"
+      },
+      {
+        "id": 29,
+        "name": "Dr. Ankit Singh",
+        "specialty": "Emergency Medicine",
+        "qualifications": "MD, Emergency Medicine",
+        "experience": "14+ years",
+        "image": "dr_ankit_singh.jpg"
+      },
+      {
+        "id": 30,
+        "name": "Dr. Aishwarya Sharma",
+        "specialty": "Gerontology",
+        "qualifications": "MD, Gerontology",
+        "experience": "12+ years",
+        "image": "dr_aishwarya_sharma.jpg"
+      }
+    ]
+}      
+  

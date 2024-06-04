@@ -1,0 +1,151 @@
+.home header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo {
+    font-size: 1.5em;
+    font-weight: bold;
+  }
+  .home-banner {
+    width: 100%;
+    height: auto;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .search-bar input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .emergency-contact {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .main-banner {
+    position: relative;
+  }
+  
+  .main-banner img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .welcome-message {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    gap: 15px;
+  }
+  
+  .cta {
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .featured-sections {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .quick-links ul {
+    list-style: none;
+  }
+  
+  .quick-links ul li {
+    margin-bottom: 10px;
+  }
+  
+  .quick-links ul li a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  footer {
+    background: #343a40;
+    color: #ffffff;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 1200px;
+  }
+  
+  .footer-info > div {
+    margin: 20px;
+    flex: 1;
+    min-width: 250px;
+    text-align: center;
+  }
+  
+  .footer-info h3 {
+    margin-bottom: 15px;
+    font-size: 1.2em;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
+  
+  .footer-info p,
+  .footer-info ul {
+    margin: 10px 0;
+  }
+  
+  .footer-info ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-info ul li {
+    margin: 10px 0;
+  }
+  
+  .footer-info ul li a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s;
+  }
+  
+  .footer-info ul li a:hover {
+    color: #0056b3;
+  }
+  
+  

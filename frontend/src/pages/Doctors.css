@@ -1,0 +1,47 @@
+.doctors {
+    padding: 20px;
+  }
+  
+  .doctors h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .doctors section {
+    margin-bottom: 20px;
+  }
+  
+  .doctors section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .doctors section p {
+    font-size: 1em;
+    line-height: 1.5;
+  }
+  .doctors-container {
+    padding: 20px;
+  }
+  
+  .doctors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .doctor-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .doctor-card h2 {
+    margin-top: 0;
+  }
+  
+  .doctor-card p {
+    margin-bottom: 5px;
+  }
+  
